@@ -1,0 +1,19 @@
+<resources>
+    <!-- Application -->
+    <string name="app_name">FragmentChanges</string>
+
+    <!-- Fragments -->
+    <string name="fragment1">Fragment One</string>
+    <string name="fragment2">Fragment Two</string>
+    <string name="fragment3">Fragment Three</string>
+    <string name="fragment4">Fragment Four</string>
+
+    <!-- Menu -->
+    <string name="option1">Option One</string>
+    <string name="option2">Option Two</string>
+    <string name="option3">Option Three</string>
+
+    <string name="option1_text">Switched third container for Fragment4.</string>
+    <string name="option2_text">Switched third container for Fragment3.</string>
+    <string name="option3_text">Switched second container for Fragment4.</string>
+</resources>

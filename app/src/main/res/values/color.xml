@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="accent" type="color">#00aadd</item>
+    <item name="accent_dark" type="color">#3934cc</item>
+
+    <item name="colorPrimary" type="color">#364353</item>
+    <item name="colorPrimaryDark" type="color">#2c0c39</item>
+
+    <item name="red" type="color">#FF4D07</item>
+    <item name="orange" type="color">#FFA538</item>
+    <item name="white" type="color">#FFFFFF</item>
+    <item name="black" type="color">#000000</item>
+    <item name="gray" type="color">#878766</item>
+</resources>
